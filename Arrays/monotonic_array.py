@@ -3,6 +3,8 @@ Check if array is strictly increaing or decareasing if yes it is monotonic
 empty array also monotonic
 single element also monotonic
 return True if monotonic else False
+
+source Udemy Problem 1
 """
 
 arr=[1,2,3,4,3]

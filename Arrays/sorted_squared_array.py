@@ -1,6 +1,7 @@
 """
 given an sorted array need to square each element and again sort them 
 its may be empty array, single element , negative also
+source Udemy Problem 1
 """
 
 arr=[]

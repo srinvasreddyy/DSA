@@ -1,6 +1,7 @@
 """
 given an array it might be same eles , and eles greater than 2 number of eles
 should return 2nd largest
+source gfg 160 - 1
 """
 
 arr=[10,10,10]
